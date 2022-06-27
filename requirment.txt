@@ -1,0 +1,3 @@
+requests
+cowsay
+beautifulsoup4
